@@ -1,6 +1,6 @@
 # GIF Search App
 
-App searching gif. 
+Application for searching gifs. 
 
 ## Getting Started
 Instructions:
@@ -10,11 +10,11 @@ Instructions:
 4. Clicking on a gif's image will pause and play it
 
 ## Built With
-HTML5
-CSS3
+* HTML5
+* CSS3
     - @media queries
     - Bootstrap 4
-JavaScript
+* JavaScript
     - jQuery
     - AJAX
     - API
