@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Giphy</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">    
+    <link href="https://fonts.googleapis.com/css?family=Major+Mono+Display" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <div class="jumbotron shadow sticky-top py-3">
+        <div class="container">
+            <h1 class="text-center pb-3">Giphy</h1>
+            <form id="buttonAdderForm" class="form-inline d-flex justify-content-center mb-4">
+                <div class="form-group mr-2">
+                    <select class="form-control" id="topicSelect">
+                        <option>Select Topic</option>
+                    </select>
+                </div>
+                <div class="form-group mr-2">
+                    <input type="text" class="form-control" id="searchInput">
+                </div>     
+                <button type="submit" id="searchInputSubmit" class="btn btn-primary">Search</button>
+            </form>
+            <hr class="mt-3">
+            <div id="searchButtonsArea"></div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row" id="gifSearchResultsArea"></div>
+    </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="assets/javascript/app.js"></script>
+</body>
+</html>
