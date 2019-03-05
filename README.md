@@ -5,6 +5,8 @@ Application for searching gifs.
 ## Getting Started
 Instructions:
 1. Select topic from dropdown menu for example search buttons
+![alt text](./src/assets/images/topic)
+
 2. Enter value in search field and press "Submit" or enter to add new button
 3. Clicking on buttons will retrieve gifs
 4. Clicking on a gif's image will pause and play it
