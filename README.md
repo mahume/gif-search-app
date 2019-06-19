@@ -1,6 +1,10 @@
-# GIF Search App
+# Giphy
 
-Application for searching gifs. 
+![Giphy](./src/assets/images/giphy.gif)
+
+## About
+
+Application for searching gifs.
 
 ## Getting Started
 Instructions:
