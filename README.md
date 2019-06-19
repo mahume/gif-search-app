@@ -4,14 +4,14 @@
 
 ## About
 
-Application for searching gifs.
+Application for searching gifs. Aka... wasting time.
 
 ## Getting Started
 
-1. Select topic from dropdown menu.
-2. Example search queries are provided in the form of buttons. Enter a new value in the search field then press "Submit" or enter to add new button. 
-3. Click a button to retrieve gifs
-4. Clicking on a gif's image will pause and play it
+1. Select topic from dropdown menu. Example search buttons will be provided.
+2. Enter a new value in the search field then press "Submit" or enter to add new search button. 
+3. Click a button to retrieve gifs.
+4. Clicking on a gif's image will toggle it on and off.
 
 ## Technologies
 
