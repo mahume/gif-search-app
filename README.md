@@ -7,20 +7,16 @@
 Application for searching gifs.
 
 ## Getting Started
-Instructions:
+
 1. Select topic from dropdown menu.
-![Topic search](./src/assets/images/topic.png)
-
 2. Example search queries are provided in the form of buttons. Enter a new value in the search field then press "Submit" or enter to add new button. 
-![Add button](./src/assets/images/add-button.png)
-
 3. Click a button to retrieve gifs
-![Search gifs](./src/assets/images/results.png)
-
 4. Clicking on a gif's image will pause and play it
-![gif functionality](./src/assets/images/giphy.gif)
 
-## Built With
+## Technologies
+
+Built using using core front-end technologies. Basic structure using HTML5. Layout and styling done with Bootstrap4's grid system. Responsive layout achieved with @media queries in CSS. Functionality is written with a combination of jQuery and vanilla JavaScript. AJAX calls hit [giphy](https://developers.giphy.com/) API.
+
 * HTML5
 * CSS3
     - @media queries
@@ -32,5 +28,6 @@ Instructions:
 
 
 ## Authors
-Mike Hume
+
+[Mike Hume](https://mahume.github.io/)
 
